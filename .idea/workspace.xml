@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5e4e05f-52fb-432d-9fca-9b246f1962b0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ad_test_to_videos.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drawing_functions_in_opencv.py" beforeDir="false" afterPath="$PROJECT_DIR$/drawing_functions_in_opencv.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.drawing_functions_in_opencv">
+  <component name="RunManager" selected="Python.ad_test_to_videos">
+    <configuration name="ad_test_to_videos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="OpenCV" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ad_test_to_videos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="drawing_functions_in_opencv" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="OpenCV" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,6 +132,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ad_test_to_videos" />
         <item itemvalue="Python.drawing_functions_in_opencv" />
         <item itemvalue="Python.sample_video" />
         <item itemvalue="Python.sample" />
@@ -129,6 +150,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573190237141</updated>
     </task>
+    <task id="LOCAL-00001" summary="Drawing shapes on the image">
+      <created>1573390003227</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573390003227</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,5 +170,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Drawing shapes on the image" />
+    <option name="LAST_COMMIT_MESSAGE" value="Drawing shapes on the image" />
   </component>
 </project>
